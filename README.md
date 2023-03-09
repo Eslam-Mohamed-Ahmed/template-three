@@ -1,1 +1,1 @@
-<img src="./pic/landingimage(1).png" alt="">
+<img src="./pic/landing-image (1).png" alt="">
